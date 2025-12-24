@@ -64,4 +64,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Максим Евдикомов ([@vaskokate](https://t.me/vaskokate))
+Катерина Васенко ([@vaskokate](https://t.me/vaskokate))
