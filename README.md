@@ -28,6 +28,8 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
+![image](https://raw.githubusercontent.com/vaskokate/python-pytest-requests/refs/heads/main/vaskokate_pytest-api.png)
+
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
 2. Перейти через терминал в директорию проекта
